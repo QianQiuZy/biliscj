@@ -2,11 +2,11 @@
   <a href="https://github.com/qianqiuzy/biliscj" target="_blank">
     <img width="160" src="akua.ico" alt="logo">
   </a>
-  <h1 id="sakuna">CppTicket</h1>
+  <h1 id="akua">biliscj</h1>
 
 </div>
 
-适用于CPP无差别平台抢票，极简页面，无需繁琐操作，快速上手
+适用于B站收藏集抽取，极简页面，无需繁琐操作，快速上手
 
 ![GitHub all releases](https://img.shields.io/github/downloads/QianQiuZy/biliscj/total)
 ![使用次数](https://img.shields.io/badge/dynamic/json?label=%E4%BD%BF%E7%94%A8%E6%AC%A1%E6%95%B0&query=%24.count&url=https%3A%2F%2Fapi.qianqiuzy.cn%2Fvisit%2Fscj_version&color=brightgreen)
